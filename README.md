@@ -6,8 +6,28 @@ Captura de la pantalla inicial de la herramienta
 
 Categorias de búsqueda que ofrece la herramienta
 
-🔥✅Advance Search (ADVSearch) es una herramienta desarrollada para automatizar las búsquedas avanzadas con el motor de búsqueda Chrome, perteneciente a Google, donde a través de los Dorks, podemos filtrar y/o entoncontrar resultados con información interesante y/o sensible. ¡Usen con esta herramienta con cuidado! con esta pueden encontrar información útil o crítica. ❌ ¡Sean Éticos! ❌
+🔥✅Advance Search (ADVSearch) es una herramienta multiplataforma desarrollada con el objetivo de automatizar las búsquedas avanzadas con el motor de búsqueda Chrome, perteneciente a Google, donde a través de los Dorks, podemos filtrar y/o entoncontrar resultados con información interesante y/o sensible. ¡Usen con esta herramienta con cuidado! con esta pueden encontrar información útil o crítica. ❌ ¡Sean Éticos! ❌
 
-✅👉Nota: Si no elige una búsqueda, dominio o IP, los resultados pueden ser más efectivos y a la vez generales, pero si es posible de que no encuentres muchos resultados.
+✅👉Nota: Si no elige una búsqueda, dominio o IP, los resultados pueden ser más efectivos y a la vez generales, pero es posible de que no encuentres muchos resultados.
 
 ✅👉Para más información visita >> https://www.exploit-db.com/google-hacking-database
+
+# Instalación
+```
+git clone https://github.com/Zackk03/AdvSearch.git
+cd AdvSearch
+```
+
+# Modulos necesarios
+```
+pip install platform
+```
+```
+pip install BeautifulSoup4
+```
+
+# Ejecución
+```
+python3 AdvSearch.py
+```
+
