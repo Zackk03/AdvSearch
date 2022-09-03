@@ -1,5 +1,5 @@
 # AdvSearch
-![Captura de pantalla 2022-08-31 115552](https://user-images.githubusercontent.com/87577013/187724354-c13b1338-fd37-44be-bf69-527ee113e476.png)
+![Captura de pantalla 2022-09-03 100009](https://user-images.githubusercontent.com/87577013/188273872-f5a2e52b-81c2-49b7-a788-ec09c8f9a6c2.png)
 Captura de la pantalla inicial de la herramienta
 
 ![Captura de pantalla 2022-08-31 115605](https://user-images.githubusercontent.com/87577013/187724075-80a6c30f-ade6-4cb6-a205-bfeb7caae0c4.png)
