@@ -10,7 +10,10 @@ Categorias de búsqueda que ofrece la herramienta
 
 ✅👉Nota: Si no elige una búsqueda, dominio o IP, los resultados pueden ser más efectivos y a la vez generales, pero es posible de que no encuentres muchos resultados.
 
+❗IMPORTANTE❗Nota: Los resultados son reportados tanto por web como por consola. Los resultados por consola se limitan a 25 resultados, por cuestión de sobrecarga de peticiones (HTTP ERROR 409). De todas maneras, los resultados son visualizados en la web.
+
 ✅👉Para más información visita >> https://www.exploit-db.com/google-hacking-database
+✅👉Para más información de la herramienta visita mi Canal de Youtube >> https://www.youtube.com/channel/UCeJOzCokicB8RWXmckFBKNg
 
 # Instalación
 ```
