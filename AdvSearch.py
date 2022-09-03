@@ -19,7 +19,7 @@ información interesante y/o sensible. ¡Usen con esta herramienta con cuidado!
 con esta pueden encontrar información útil o crítica. ¡Sean Éticos! 
 
 Nota: Si no elige una búsqueda, dominio o IP, los resultados pueden ser más efectivos 
-y a la vez generales, pero si es posible de que no encuentres muchos resultados.
+y a la vez generales, pero es posible de que no encuentres muchos resultados.
 
  ~-> Para más información >> https://www.exploit-db.com/google-hacking-database
  ~-> Para salir "Ctrl + C"
